@@ -1,0 +1,1 @@
+DevOps to metodologia łącząca rozwój oprogramowania i operacje IT. Chcę w tym kursie nauczyć się korzystać z narzędzi DevOps, takich jak Git, Docker, VS Code, oraz tworzyć i automatyzować procesy CI/CD.
